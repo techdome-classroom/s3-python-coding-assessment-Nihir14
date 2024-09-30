@@ -24,3 +24,4 @@ class Solution(object):
         
         # If the stack is empty, all opening brackets have been closed properly
         return not stack
+
